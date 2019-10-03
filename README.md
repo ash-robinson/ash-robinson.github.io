@@ -1,2 +1,4 @@
 # ash-robinson.github.io
-Website
+---
+permalink: /index.html
+---
